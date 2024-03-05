@@ -1,0 +1,34 @@
+/* styles/QuizDetail.css */
+
+.quiz-detail-container {
+    margin: 2rem;
+  }
+  
+  .question {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .options-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .option {
+    margin-bottom: 0.5rem;
+  }
+  
+  .submit-btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  

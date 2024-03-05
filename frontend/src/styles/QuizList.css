@@ -1,0 +1,19 @@
+/* styles/QuizList.css */
+
+.quiz-list-container {
+    margin: 2rem;
+  }
+  
+  .quiz-item {
+    margin-bottom: 1rem;
+  }
+  
+  .quiz-link {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .quiz-link:hover {
+    text-decoration: underline;
+  }
+  
